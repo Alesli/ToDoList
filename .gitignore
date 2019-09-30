@@ -1,3 +1,9 @@
+# idea folder
+.idea/
+
+# targed folder
+target/
+
 # Compiled class file
 *.class
 
@@ -10,10 +16,14 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Iml config
+*.iml
+*.ipr
+*.iws
+
 # Package Files #
 *.jar
 *.war
-*.nar
 *.ear
 *.zip
 *.tar.gz
